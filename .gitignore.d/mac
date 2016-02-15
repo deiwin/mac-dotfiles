@@ -8,3 +8,5 @@
 !/Library/Preferences
 !/Library/Preferences/org.pqrs.Karabiner.plist
 !/Library/Preferences/org.pqrs.Seil.plist
+!/bin
+!/bin/brew

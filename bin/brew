@@ -1,0 +1,10 @@
+#!/bin/bash
+set -e
+
+if [ -n "$VCSH_REPO_NAME" ]
+then
+  echo "Careful! Running brew while in VCSH env can be dangerous!"
+  exit 1
+fi
+
+/usr/local/bin/brew "$@"
