@@ -10,3 +10,4 @@
 !/Library/Preferences/org.pqrs.Seil.plist
 !/bin
 !/bin/brew
+!/bin/upgrade-brew

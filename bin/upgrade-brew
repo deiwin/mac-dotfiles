@@ -1,0 +1,15 @@
+#!/bin/bash
+set -e
+
+# Does a full `brew update && brew upgrade` while holding back upgrades to the
+# postgresql package.
+
+brew update
+outdated=$(brew outdated | cut -d ' ' -f 1)
+for package in $outdated
+do
+  if [[ "$package" != "postgresql" ]]
+  then
+	brew upgrade $package
+  fi
+done
