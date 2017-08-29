@@ -1,0 +1,3 @@
+set gui=none,tabs
+nmap t <M-t><esc>:open<Space>
+command reader execute “open about:reader?url=” + content.location.href
