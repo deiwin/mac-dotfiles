@@ -10,6 +10,7 @@
 !/.vimperator/info/default/ignored-keys
 !/.vimperator/info/default/quickmarks
 !/.vimperatorrc
+!/Brewfile
 !/Library
 !/Library/Preferences
 !/Library/Preferences/org.pqrs.Karabiner-Elements-Updater.plist
