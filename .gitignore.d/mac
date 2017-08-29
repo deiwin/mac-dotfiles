@@ -12,6 +12,14 @@
 !/.vimperatorrc
 !/Brewfile
 !/Library
+!/Library/Fonts
+!/Library/Fonts/Droid Sans Mono for Powerline.otf
+!/Library/Fonts/Inconsolata for Powerline.otf
+!/Library/Fonts/Inconsolata-g for Powerline.otf
+!/Library/Fonts/encodings.dir
+!/Library/Fonts/fonts.dir
+!/Library/Fonts/fonts.list
+!/Library/Fonts/fonts.scale
 !/Library/Preferences
 !/Library/Preferences/org.pqrs.Karabiner-Elements-Updater.plist
 !/bin
