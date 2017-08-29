@@ -142,6 +142,8 @@ brew "homebrew/nginx/nginx-full", args: ["with-lua-module"]
 brew "johanhaleby/kubetail/kubetail"
 brew "universal-ctags/universal-ctags/universal-ctags", args: ["HEAD"]
 cask "amethyst"
+cask "iterm2"
+cask "karabiner-elements"
 cask "keycastr"
 cask "macpass"
 cask "ngrok"
