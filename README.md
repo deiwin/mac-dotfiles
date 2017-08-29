@@ -23,8 +23,7 @@ sudo shutdown -r now
   - Disable "Remember logins for sites"
 - Install chrome
 - Install prezto, as explained in https://github.com/deiwin/prezto#installation
-- Install iTerm 3: https://www.iterm2.com/downloads.html
-  - Set iTerm conf URL to: `~/.config/iterm`
+- Set iTerm conf URL to: `~/.config/iterm`
 - `vcsh clone git@github.com:deiwin/tmux-dotfiles.git tmux`
   - `git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
 - `vcsh clone git@github.com:deiwin/vim-dotfiles.git vim`
