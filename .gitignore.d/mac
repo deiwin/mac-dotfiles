@@ -1,5 +1,7 @@
 *
 !/.config
+!/.config/iterm
+!/.config/iterm/com.googlecode.iterm2.plist
 !/.config/zshrc.d
 !/.config/zshrc.d/base16-3024.dark.sh
 !/.gitignore.d
