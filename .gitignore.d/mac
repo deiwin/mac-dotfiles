@@ -5,11 +5,7 @@
 !/.gitignore.d
 !/.gitignore.d/mac
 !/Library
-!/Library/Application Support
-!/Library/Application Support/Karabiner
-!/Library/Application Support/Karabiner/private.xml
 !/Library/Preferences
-!/Library/Preferences/org.pqrs.Karabiner.plist
-!/Library/Preferences/org.pqrs.Seil.plist
+!/Library/Preferences/org.pqrs.Karabiner-Elements-Updater.plist
 !/bin
 !/bin/brew
