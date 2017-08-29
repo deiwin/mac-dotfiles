@@ -111,7 +111,6 @@ brew "mpg123"
 brew "mpv"
 brew "unibilium"
 brew "neovim", args: ["HEAD"]
-brew "ngrok"
 brew "optipng"
 brew "postgresql"
 brew "rabbitmq"
