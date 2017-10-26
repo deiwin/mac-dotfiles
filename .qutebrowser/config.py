@@ -9,3 +9,5 @@ c.url.searchengines = {
 c.completion.shrink = True
 
 c.spellcheck.languages = ['en-US', 'et-EE']
+
+c.input.insert_mode.auto_load = True
