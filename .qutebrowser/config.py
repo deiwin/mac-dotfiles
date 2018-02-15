@@ -1,6 +1,8 @@
 c.tabs.position = 'left'
 c.tabs.width = '8%'
 
+c.qt.highdpi = True
+
 c.url.searchengines = {
     'DEFAULT': 'https://google.com/search?q={}',
     'youtube': 'https://www.youtube.com/results?search_query={}'
