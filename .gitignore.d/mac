@@ -6,6 +6,9 @@
 !/.config/zshrc.d/base16-3024.dark.sh
 !/.gitignore.d
 !/.gitignore.d/mac
+!/.gnupg
+!/.gnupg/gpg-agent.conf
+!/.gnupg/gpg.conf
 !/.qutebrowser
 !/.qutebrowser/config.py
 !/.vimperator
