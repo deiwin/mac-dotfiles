@@ -16,3 +16,10 @@ c.input.insert_mode.auto_load = True
 
 config.bind('<Ctrl-k>', 'tab-move -')
 config.bind('<Ctrl-j>', 'tab-move +')
+
+# with config.pattern('*://*.github.com/') as p:
+#     p.content.user_stylesheets = ['github_dark.css']
+
+c.editor.command = ['/usr/local/bin/oni', '{file}']
+
+config.bind('sI', 'spawn --userscript instaqute {url}')
