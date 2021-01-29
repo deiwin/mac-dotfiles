@@ -22,4 +22,4 @@ config.bind('<Ctrl-j>', 'tab-move +')
 
 c.editor.command = ['/usr/local/bin/oni', '{file}']
 
-config.bind('sI', 'spawn --userscript instaqute {url}')
+config.bind('sI', 'spawn --userscript /Users/deiwin/bin/instaqute {url}')
