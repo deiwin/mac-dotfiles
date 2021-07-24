@@ -1,3 +1,5 @@
+config.load_autoconfig()
+
 c.tabs.position = 'left'
 c.tabs.width = '8%'
 
